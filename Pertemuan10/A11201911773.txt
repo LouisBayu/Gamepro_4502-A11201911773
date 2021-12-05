@@ -1,0 +1,23 @@
+A11201911773
+
+Cube -> Component = Transform, Cube (Mesh Filter), Mesh Renderer, Box Collider, Material
+
+Sphere -> Component = Transform, Sphere (Mesh Filter), Mesh Renderer, Sphere Collider, Material
+
+Capsule -> Component = Transform, Capsule (Mesh Filter), Mesh Renderer, Capsule Collider, Material
+
+Cylinder -> Component = Transform, Cylinder (Mesh Filter), Mesh Renderer, Capsule Collider, Material
+
+Plane -> Component = Transform, Plane (Mesh Filter), Mesh Renderer, Mesh Collider, Material
+
+Quad -> Component = Transform, Quad (Mesh Filter), Mesh Renderer, Mesh Collider, Material
+
+Text-TextMeshPro -> Component = Rect Transform, Mesh Renderer, TextMeshPro-Text, Material
+
+Terrain -> Component = Transform, Terrain, Terrain Collider
+
+Tree -> Component = Transform, Tree, Mesh (Mesh Filter), Mesh Renderer, Material
+
+Wind Zone -> Component = Transform, Wind Zone
+
+3DText -> Component = Transform, Mesh Renderer, Text Mesh
